@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tirth Motka</h1>
 <h3 align="center">a Web3-Blockchain and Full Stack Developer</h3>
-
+| :----: |    :----:   |
+| ![Tirth Motka's github stats](https://github-readme-stats.vercel.app/api?username=SuperStar0907&show_icons=true&theme=radical)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperStar0907)](https://github.com/anuraghazra/github-readme-stats)|
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/superstar0907" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="superstar0907" height="30" width="40" /></a>
