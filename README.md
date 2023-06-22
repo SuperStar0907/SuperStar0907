@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tirth Motka, a Web3-Blockchain and Full Stack Developer
+# Hi 👋, I'm Tirth Motka, a Backend and Web3-Blockchain Developer
 |       |  |
 | :----: |    :----:   |
 | ![Tirth Motka's github stats](https://github-readme-stats.vercel.app/api?username=SuperStar0907&show_icons=true&theme=radical)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperStar0907)](https://github.com/anuraghazra/github-readme-stats)|
