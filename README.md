@@ -1,4 +1,12 @@
-# Hi 👋, I'm Tirth Motka, a Backend and Web3-Blockchain Developer
+# Hi, I'm Tirth Motka 👋
+
+I'm more than just a Computer Science Bachelor's student at the International Institute of Information Technology, Hyderabad - I'm a passionate tech enthusiast who thrives on learning new technologies and leveraging them to build innovative projects. My earnest curiosity has led to proficient knowledge and experience in Solidity, JavaScript, Python, C++, Bash, Java, and next-generation frameworks.
+
+Working as a Backend Product Engineer, Software Developer, Full-Stack Developer, and Blockchain Solidity Developer in various internships has honed my skills and deepened my understanding of tech-ecosystems. It has also reinforced my love for Backend development and exposed my ability to excel as a Solidity developer.
+
+In addition to my professional and academic pursuits, I've worked on several interesting projects such as a DeFi Stake and Reward App, a NextJS, and Solidity based web-app, and a Dockerized full-stack MERN application. Each of these projects represents my propensity for learning and leveraging new tech to create something innovative and useful. 
+
+My openness transcends beyond tech learning. I am also open to new experiences, new challenges, and new collaborations. So whether you have a disruptive idea, an interesting project, or an amazing collaboration opportunity, I'd love to hear about it and participate!
 
 <h1 align="center">Metrics 📈</h1>
 <p href="#" align="center">
